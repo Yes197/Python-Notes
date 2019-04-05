@@ -1,7 +1,7 @@
-#Este libro tienee el metodo de enseñar empezando con un código que tal vez no entiendas y luego más ejercicios explicando el concepto de manera que entiendas conforme avanzas más ejercicios. Recuerda escribir cada código exactamente como está escrito.
+#Este libro tiene el metodo de enseñar empezando con un código que tal vez no entiendas y luego más ejercicios explicando el concepto de manera que entiendas conforme avanzas más ejercicios. Recuerda escribir cada código exactamente como está escrito.
 
 days = "Mon Tue Wed Thu Fri Sat Sun"
-months = "Jan\nFeb\nMar\nApr\nMay\nJun\nJul\nAug"
+months = "Jan\nFeb\nMar\nApr\nMay\nJun\nJul\nAug" #Usamos \n para añadir un salto de línea.
 
 print("Here are the days: ", days)
 print("Here are the months: ", months)
