@@ -1,0 +1,3 @@
+instalar los modulos para el web scrappling con request html
+pip install requests
+pip install requests-html
