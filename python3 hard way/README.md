@@ -1,6 +1,6 @@
 # Python The Hard Way
 
-Bienvenido! Este es un resumen del libro _ Learn Python 3 The Hard Way_. Si tienes la oportunidad apoya al autor comprando su material original [desde Amazon](https://www.amazon.com/Learn-Python-Hard-Way-Introduction/dp/0134692888).
+Bienvenido! Este es un resumen del libro _Learn Python 3 The Hard Way_. Si tienes la oportunidad apoya al autor comprando su material original [desde Amazon](https://www.amazon.com/Learn-Python-Hard-Way-Introduction/dp/0134692888).
 
 En este repositorio se encuentran todos los ejercicios del libro traducidos al español. Los ejercicios están enumerados en el mismo orden que aparecen en el libro. 
 
